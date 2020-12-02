@@ -7,6 +7,7 @@
 * When navigating through the site we created it proves to be very easy and to the point when look for the desired info.
 * We have even created suggested info for how to filter your search based off of locations, time, and shape.  So if you were wanting to find info on Dallas Texas you could easily do so.
 * After making your searches you will be provided a list of desired outputs that best fit your criteria.
+![github](image.PNG)
 
 #Summary
 * A drawback that instantly sticks out is the inability to make multiple selection.  What I mean by this is that we can only select a specific date, or city.  If we wanted to find an entire range of cities and dates we could not do that witht the current layout.
